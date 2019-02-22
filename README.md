@@ -6,4 +6,7 @@
 
 Базовый файл аффиксов Александра Клюквина https://code.google.com/archive/p/hunspell-ru/ (поэтому такая лицензия)
 
-Правила склонения фамилий http://www.oshibok-net.ru/for-all/sklonenie-famili/
+Правила склонения фамилий:
+* http://www.oshibok-net.ru/for-all/sklonenie-famili/
+* http://gramota.ru/class/istiny/istiny_8_familii/
+* http://new.gramota.ru/spravka/letters/71-rubric-482
