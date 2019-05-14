@@ -1,6 +1,6 @@
 # hunspell-ru-surnames
 
-Словарь создан для использования с модулем hunspell в elasticsearch. 
+Словарь склонения русских фамилий создан для использования с модулем hunspell в elasticsearch. 
 
 https://www.elastic.co/guide/en/elasticsearch/reference/master/analysis-hunspell-tokenfilter.html
 
